@@ -1,4 +1,4 @@
-### Hello, I'm [Pablo Diaz][linkedin]
+### Hello, I'm [Bryan De La Cruz][linkedin] - GozDev
 
 
 - I'm a B.S. Mechatronic Engineering
