@@ -9,6 +9,7 @@
 
 - <a href="https://www.linkedin.com/in/bdelacruz-pucp/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Bryan De La Cruz LinkedIn Profile" height="30" width="30"/></a>
 - <a href="mailto:bryan.delacruza@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="30"/></a>
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
 
 ## 💻 I'm able to fit in:
 
@@ -17,7 +18,7 @@
 - React Developer (+Jr.)
 
 ## Tech skills
-  <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Cesar Contreras LinkedIn Profile" width="440px" align="right">  
+  <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Cesar Contreras LinkedIn Profile" width="440px" align="right">
   
 <p width='40%' height="100%"align="left"> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5"             width="40" height="40"/> </a>   
@@ -49,3 +50,4 @@
 
 [linkedin]: https://www.linkedin.com/in/bdelacruz-pucp/
 [tata]: https://www.tcs.com/
+[telegram]: https://t.me/bryandlcruz
