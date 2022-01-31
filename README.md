@@ -15,6 +15,7 @@
 
 - Front End Developer (Jr.)
 - Back End Developer (Jr.)
+- Full Stack Web Developer (Jr.)
 - React Developer (+Jr.)
 
 ## Tech skills
