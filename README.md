@@ -3,7 +3,7 @@
 
 - I'm a B.S. Mechatronic Engineering
 - I'm a Full Stack Web Developer
-- My last job position was as a IT Analyst at [Tata Consultancy Service][tata]
+- I currently work as a Programmer Analyst at [Izipay][izi]
 
 ## 📫 Contact me via:
 
@@ -13,10 +13,10 @@
 
 ## 💻 I'm able to fit in:
 
-- Front End Developer (Jr.)
-- Back End Developer (Jr.)
-- Full Stack Web Developer (Jr.)
-- React Developer (+Jr.)
+- Front End Developer 
+- Back End Developer 
+- Full Stack Web Developer
+- React Developer
 
 ## Tech skills
   <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Cesar Contreras LinkedIn Profile" width="440px" align="right">
@@ -60,5 +60,5 @@ Disclaimer: Top languages does not indicate skill, it's provided by Github: metr
 <!-- Links -->
 
 [linkedin]: https://www.linkedin.com/in/bdelacruz-pucp/
-[tata]: https://www.tcs.com/
+[izi]: https://www.izipay.pe/
 [telegram]: https://t.me/bryandlcruz
