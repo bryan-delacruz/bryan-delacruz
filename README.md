@@ -1,8 +1,8 @@
 # Hello, I'm [Bryan De La Cruz][linkedin] alias GozDev
 
 
+- I'm a Frontend Web Developer
 - I'm a B.S. Mechatronic Engineering
-- I'm a Full Stack Web Developer
 - I currently work as a Programmer Analyst at [Izipay][izi]
 
 ## 📫 Contact me via:
@@ -14,9 +14,9 @@
 ## 💻 I'm able to fit in:
 
 - Front End Developer 
-- Back End Developer 
-- Full Stack Web Developer
 - React Developer
+- Full Stack Web Developer (React + Node)
+
 
 ## Tech skills
   <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Cesar Contreras LinkedIn Profile" width="440px" align="right">
