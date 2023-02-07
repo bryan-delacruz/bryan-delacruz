@@ -1,4 +1,4 @@
-# Hello, I'm [Bryan De La Cruz][linkedin] alias GozDev
+# Hello, I'm [Bryan De La Cruz][linkedin]
 
 
 - I'm a Frontend Web Developer
