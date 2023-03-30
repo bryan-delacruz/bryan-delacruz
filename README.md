@@ -1,7 +1,7 @@
 # Hello, I'm [Bryan De La Cruz][linkedin]
 
 
-- I'm a Frontend Web Developer
+- I'm a Frontend Software Engineer
 - I'm a B.S. Mechatronic Engineering
 - I currently work as a Programmer Analyst at [Izipay][izi]
 
