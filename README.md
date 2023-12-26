@@ -1,21 +1,22 @@
 # Hello, I'm [Bryan De La Cruz][linkedin]
 
 
-- I'm a Frontend Software Engineer
+- I'm a Software Engineer
 - I'm a B.S. Mechatronic Engineering
-- I currently work as a Programmer Analyst at [Izipay][izi]
+- I currently work as a Front End Developer at [InfraCommerce Latam][infra]
 
 ## 📫 Contact me via:
 
 - <a href="https://www.linkedin.com/in/bdelacruz-pucp/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Bryan De La Cruz LinkedIn Profile" height="30" width="30"/></a>
 - <a href="mailto:bryan.delacruza@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="30"/></a>
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
 
 ## 💻 I'm able to fit in:
 
-- Front End Developer 
+- Front End Developer
+- Javascript Developer
 - React Developer
 - Full Stack Web Developer (React + Node)
+- Software Enginner (React + Node)
 
 
 ## Tech skills
@@ -60,5 +61,4 @@ Disclaimer: Top languages does not indicate skill, it's provided by Github: metr
 <!-- Links -->
 
 [linkedin]: https://www.linkedin.com/in/bdelacruz-pucp/
-[izi]: https://www.izipay.pe/
-[telegram]: https://t.me/bryandlcruz
+[infra]: https://www.infracommerce.lat/
