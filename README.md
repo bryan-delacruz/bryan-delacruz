@@ -1,64 +1,53 @@
-# Hello, I'm [Bryan De La Cruz][linkedin]
+# Hi, I'm Bryan De La Cruz 👋
 
+**Software Engineer · Full Stack** — Lima, Perú
 
-- I'm a Software Engineer
-- I'm a B.S. Mechatronic Engineering
-- I currently work as a Front End Developer at [InfraCommerce Latam][infra]
+I build storefronts and web apps with **React, Next.js and TypeScript**. For 3+ years I have shipped ecommerce for global brands across 7 LATAM countries, and I launch my own products end to end on the side.
 
-## 📫 Contact me via:
+🟢 Open to new opportunities · remote or hybrid
 
-- <a href="https://www.linkedin.com/in/bdelacruz-pucp/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Bryan De La Cruz LinkedIn Profile" height="30" width="30"/></a>
-- <a href="mailto:bryan.delacruza@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="30"/></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bdlc.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-delacruza/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.delacruza@gmail.com)
 
-## 💻 I'm able to fit in:
+## 💼 Experience
 
-- Front End Developer
-- Javascript Developer
-- React Developer
-- Full Stack Web Developer (React + Node)
-- Software Enginner (React + Node)
+**Software Engineer · [Infracommerce Latam](https://www.infracommerce.lat/)** (2023 – present)
 
+Infracommerce is an ecommerce agency. I build and maintain the online stores of its client brands.
 
-## Tech skills
-  <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Cesar Contreras LinkedIn Profile" width="440px" align="right">
-  
-<p width='40%' height="100%"align="left"> 
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5"             width="40" height="40"/> </a>   
-   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="css3"         width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript" width="40" height="40"/> </a>
- </p>
- 
- <p width='40%' align="left">
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react"                 w       width="40" height="40"/> </a>
-    <a href="https://es.redux.js.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux"         width="40" height="40"/> 
-    </a>
- </p>
- 
- <p width='40%' align="left">    
-   <a href="https://nodejs.org" target="_blank"> <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=40&color=currentColor" alt="nodejs"                width="40" height="40"/> </a>
-   <a href="https://expressjs.com" target="_blank"> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=40&color=2ec539" alt="express"                width="40" height="40"/> </a>
-   <a href="https://sequelize.org" target="_blank"> <img src="https://icongr.am/devicon/sequelize-original.svg?size=40&color=2ec539" alt="postgresql" width="40"          height="40"/></a>
-   <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=2ec539"                      alt="postgresql" width="40" height="40"/> </a>
- </p>
- 
- <p align="left">
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://www.heroku.com/home" target="_blank"> <img src="https://icongr.am/devicon/heroku-original.svg?size=40&color=currentColor"                             alt="heroku" width="40" height="40"/></a>
- </p>
- 
- ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-delacruz&layout=compact&langs_count=10&theme=radical&hide=HTML)
+- Build **VTEX FastStore** storefronts (Next.js, React, TypeScript, GraphQL) for the agency's clients **Timex Brazil** and **Mondaine**, from starter to launch.
+- Shipped features and maintenance on **27 B2C and B2B storefronts** for 20+ client brands, including Reebok, ASICS, Carter's, Herman Miller, Coca-Cola and American Eagle.
+- Built **30+ custom apps** on VTEX IO and FastStore: React components, admin apps with Node.js backends, REST and GraphQL integrations.
+- Integrate and ship each sprint release: code review, branch consolidation and production verification.
 
-![bryan-delacruz's github stats](https://github-readme-stats.vercel.app/api?username=bryan-delacruz&show_icons=true&theme=radical)
-  
+**Software Engineer (Analyst Programmer) · Izipay** (2022 – 2023)
 
+- Built an internal React app to decode ISO 8583 messages: incident investigation time dropped from 5 minutes to 1.
+- Implemented Visa and Mastercard mandates on the card payment switch.
 
+> Most of my professional work lives in private client repositories. My contribution graph includes that private activity.
 
-Disclaimer: Top languages does not indicate skill, it's provided by Github: metric that also counts libraries
-  
+## 🚀 Featured projects
 
-<!-- Links -->
+| Project | What it does | Stack | Links |
+| --- | --- | --- | --- |
+| **Bernie Wallet** | Reads your bank's emails with read-only Gmail access and organizes each purchase by category. Installable PWA. | Next.js 16, Supabase, Gmail API | [Demo](https://bernie-wallet.vercel.app) · private repo |
+| **Casorio Club** | Plan the paperwork, to-dos, purchases and budget of a civil wedding with your partner. | Next.js 16, Clerk, Neon Postgres, Drizzle | [Demo](https://casorio-club.vercel.app) · private repo |
+| **The Coffee Simulator** | Financial simulator to decide whether to sign a franchise location, with taxes and asset recovery. | Next.js 16, TypeScript, shadcn/ui | [Demo](https://the-coffee-simulator.vercel.app) · private repo |
+| **Teslo Shop** | Full stack ecommerce: filtered catalog, cart, PayPal checkout and admin panel. | Next.js, Prisma, PostgreSQL, NextAuth | [Demo](https://teslo-shop-bdlc.vercel.app/) · [Code](https://github.com/bryan-delacruz/next-teslo-shop) |
+| **Spotify Clone** | Music streaming with uploads, custom player and Stripe premium subscription. | Next.js, Supabase, Stripe | [Demo](https://spotify-app-bdlc.vercel.app/) · [Code](https://github.com/bryan-delacruz/next-spotify-app) |
+| **Rent Platform** | Property management SaaS built on its own Storybook design system. | Next.js 16, Prisma, Storybook, Vitest | private repo |
 
-[linkedin]: https://www.linkedin.com/in/bdelacruz-pucp/
-[infra]: https://www.infracommerce.lat/
+More projects on my [portfolio](https://portfolio-bdlc.vercel.app/).
+
+## 🛠️ Stack
+
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, Radix UI, Zustand, Redux
+- **Backend & data:** Node.js, GraphQL, REST, PostgreSQL, Prisma, Drizzle, Supabase
+- **Ecommerce:** VTEX IO, FastStore, Headless CMS, Master Data, Stripe, PayPal
+- **Quality & workflow:** Storybook, Vitest, Jest, Playwright, Git, Vercel, AI agents (Spec-Driven Development)
+
+## 🎓 Education
+
+B.S. Mechatronics Engineering · Pontificia Universidad Católica del Perú
