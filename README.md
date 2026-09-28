@@ -37,6 +37,7 @@ Infracommerce is an ecommerce agency. I build and maintain the online stores of 
 | **Casorio Club** | Plan the paperwork, to-dos, purchases and budget of a civil wedding with your partner. | Next.js 16, Clerk, Neon Postgres, Drizzle | [Demo](https://casorio-club.vercel.app) · [Code](https://github.com/bryan-delacruz/casorio-club) |
 | **The Coffee Simulator** | Financial simulator to decide whether to sign a franchise location, with taxes and asset recovery. | Next.js 16, TypeScript, shadcn/ui | [Demo](https://the-coffee-simulator.vercel.app) · private repo |
 | **Teslo Shop** | Full stack ecommerce: filtered catalog, cart, PayPal checkout and admin panel. | Next.js, Prisma, PostgreSQL, NextAuth | [Demo](https://teslo-shop-bdlc.vercel.app/) · [Code](https://github.com/bryan-delacruz/next-teslo-shop) |
+| **Spotify Clone** | Music streaming with a custom player, liked songs, uploads and a Stripe Premium subscription. One-click Premium demo. | Next.js, Supabase, Stripe | [Demo](https://spotify-app-bdlc.vercel.app/) · [Code](https://github.com/bryan-delacruz/next-spotify-app) |
 
 More projects on my [portfolio](https://portfolio-bdlc.vercel.app/).
 
