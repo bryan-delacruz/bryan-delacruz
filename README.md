@@ -1,4 +1,4 @@
-# Hi, I'm Bryan De La Cruz 👋
+# Hi, I'm Bryan De La Cruz A. 👋
 
 **Software Engineer · Full Stack** — Lima, Perú
 
