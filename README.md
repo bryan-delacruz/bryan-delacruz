@@ -32,12 +32,11 @@ Infracommerce is an ecommerce agency. I build and maintain the online stores of 
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **Bernie Wallet** | Reads your bank's emails with read-only Gmail access and organizes each purchase by category. Installable PWA. | Next.js 16, Supabase, Gmail API | [Demo](https://bernie-wallet.vercel.app) · private repo |
-| **Casorio Club** | Plan the paperwork, to-dos, purchases and budget of a civil wedding with your partner. | Next.js 16, Clerk, Neon Postgres, Drizzle | [Demo](https://casorio-club.vercel.app) · private repo |
+| **Rent Platform** | Rental management for landlords: leases, automatic monthly charges, partial payments, PDF receipts and WhatsApp reminders, in English and Spanish. One-click demo. | Next.js 16, Clerk, Prisma, Neon, Playwright | [Demo](https://rent-platform-bdlc.vercel.app) · [Code](https://github.com/bryan-delacruz/rent-platform) |
+| **Bernie Wallet** | Reads your bank's emails with read-only Gmail access and organizes each purchase by category. Installable PWA. | Next.js 16, Supabase, Gmail API | [Demo](https://bernie-wallet.vercel.app) · [Code](https://github.com/bryan-delacruz/bernie-wallet) |
+| **Casorio Club** | Plan the paperwork, to-dos, purchases and budget of a civil wedding with your partner. | Next.js 16, Clerk, Neon Postgres, Drizzle | [Demo](https://casorio-club.vercel.app) · [Code](https://github.com/bryan-delacruz/casorio-club) |
 | **The Coffee Simulator** | Financial simulator to decide whether to sign a franchise location, with taxes and asset recovery. | Next.js 16, TypeScript, shadcn/ui | [Demo](https://the-coffee-simulator.vercel.app) · private repo |
 | **Teslo Shop** | Full stack ecommerce: filtered catalog, cart, PayPal checkout and admin panel. | Next.js, Prisma, PostgreSQL, NextAuth | [Demo](https://teslo-shop-bdlc.vercel.app/) · [Code](https://github.com/bryan-delacruz/next-teslo-shop) |
-| **Spotify Clone** | Music streaming with uploads, custom player and Stripe premium subscription. | Next.js, Supabase, Stripe | [Demo](https://spotify-app-bdlc.vercel.app/) · [Code](https://github.com/bryan-delacruz/next-spotify-app) |
-| **Rent Platform** | Property management SaaS built on its own Storybook design system. | Next.js 16, Prisma, Storybook, Vitest | private repo |
 
 More projects on my [portfolio](https://portfolio-bdlc.vercel.app/).
 
